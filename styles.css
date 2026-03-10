@@ -110,7 +110,6 @@ body {
   color: var(--link);
   text-decoration-thickness: 0.08em;
   text-underline-offset: 0.14em;
-  transition: opacity 140ms ease;
 }
 
 .caption a:hover {
