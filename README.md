@@ -1,4 +1,4 @@
-# /\\/\\/\\(o.o)> Ježkove oči
+# /\\/\\/\\(•.•)> Ježkove oči
 
 Jednoduchý web pre OZ Ježkove oči – komunitnú cyklodielňu BANM v Bratislave.
 
@@ -28,10 +28,10 @@ v `ascii-logo-navrh.md`.
 ## Zopár ježkov
 
 ```txt
-/\/\/\(o.o)>
+/\/\/\(•.•)>
 /\/\/\(^.^)>
-/\/\(•.•)>
+/\/\(◕.◕)>
 /\/\/\(ᵔ.ᵔ)>
-<(o.o)/\/\/\
+<(•.•)/\/\/\
 <(^.^)/\/\
 ```

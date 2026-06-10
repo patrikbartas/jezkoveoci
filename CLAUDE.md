@@ -6,7 +6,9 @@ This file provides guidance to Claude Code (claude.ai/code) when working with co
 
 Static website for OZ Ježkove oči, a Slovak nonprofit (občianske združenie) running the BANM community bike workshop in Bratislava. All page content is in Slovak (`lang="sk"`) — keep new user-facing text in Slovak.
 
-The ASCII hedgehog (variants in `ascii-logo-navrh.md`, e.g. `/\/\/\(o.o)>`) is the emerging visual identity — used in the landing-page caption and the 2% page footer, styled via the `.ascii-logo` class (monospace, `white-space: pre`). A full website rebuilt around this theme is planned; the current site is a quick fix. In HTML, escape `<` and `>` in the logos (`&lt;`, `&gt;`).
+The ASCII hedgehog (variants in `ascii-logo-navrh.md`, primary: `/\/\/\(•.•)>`) is the emerging visual identity — used in the landing-page caption and the 2% page footer, styled via the `.ascii-logo` class (monospace, `white-space: pre`). A full website rebuilt around this theme is planned; the current site is a quick fix. In HTML, escape `<` and `>` in the logos (`&lt;`, `&gt;`).
+
+Never use the `(o.o)` eye variant as a primary/default logo — a friend's company logo uses exactly those eyes, and it must not look like an imitation. It may appear deep in variant lists, but always lead with other eyes (`•.•`, `^.^`, `◕.◕`, `ᵔ.ᵔ`).
 
 ## Development
 

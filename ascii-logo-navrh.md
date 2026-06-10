@@ -5,7 +5,7 @@ Jednoriadkové návrhy pre „Ježkove oči“.
 ## Favorit
 
 ```txt
-/\/\/\(o.o)>
+/\/\/\(•.•)>
 ```
 
 ## Menej pichliačov
@@ -90,14 +90,17 @@ Jednoriadkové návrhy pre „Ježkove oči“.
 ## Najlepšie kandidáty
 
 ```txt
-/\/\(o.o)>
+/\/\/\(•.•)>
 /\/\/\(^.^)>
 <(^.^)/\/\
-<(o.o)/\/\/\
+/\/\(◕.◕)>
 ```
 
 ## Poznámka
 
 - `/\/\/\` alebo `/\/\` = pichliače
-- `(o.o)` = oči / výraz
+- `(•.•)` = oči / výraz
 - `>` alebo `<` = špicatý ňufák
+- variant `(o.o)` nepoužívame ako hlavný – rovnaké oči má v logu firma kamarátky,
+  nech to nevyzerá ako inšpirácia; vo variantoch môže ostať, ale nikdy nie ako
+  prvá voľba
