@@ -4,8 +4,12 @@ Jednoriadkové návrhy pre „Ježkove oči“.
 
 ## Favorit
 
+Aktuálne nasadený na webe: kompaktný ježko s ᴥ čumáčikom na hlavnej stránke,
+ω verzia s chvostíkom v pätičke 2% stránky.
+
 ```txt
-/\/\/\(•.•)>
+/\/\(•ᴥ•)
+(•ω•)/\/\/\~
 ```
 
 ## Menej pichliačov
