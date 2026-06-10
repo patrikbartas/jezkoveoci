@@ -138,6 +138,48 @@ Oči pri sebe, špicatý čumáčik hneď vedľa nich – stále vnútri tvári�
 (<••)/\/\/\~
 ```
 
+## Čumáčik ᴥ (inšpirácia bearblog)
+
+Medveď z bearblogu `ʕ•ᴥ•ʔ` má uši – náš ježko má namiesto uší pichliače,
+takže silueta je iná a ᴥ čumáčik si môžeme pokojne požičať.
+
+```txt
+/\/\/\(•ᴥ•)
+/\/\/\(^ᴥ^)
+/\/\/\(ᵔᴥᵔ)
+/\/\/\(◕ᴥ◕)
+(•ᴥ•)/\/\/\
+(^ᴥ^)/\/\/\
+~/\/\/\(•ᴥ•)
+```
+
+## Kompaktné (2 pichliače)
+
+Menej pichliačov = kratšie a hutnejšie logo, vhodné na malé použitia.
+
+```txt
+/\/\(•ᴥ•)
+/\/\(•ω•)
+/\/\(^ᴥ^)
+/\/\(••>)
+/\/\(•.•)>
+~/\/\(•ᴥ•)
+,/\/\(•ω•)
+(•ᴥ•)/\/\
+(^ω^)/\/\~
+```
+
+## Iné pichliače (experimenty)
+
+```txt
+^^^(•ᴥ•)
+^^(•ω•)
+∧∧∧(•ᴥ•)
+ΛΛ(•.•)>
+MM(•ᴥ•)
+w/\/\(•ω•)
+```
+
 ## Najlepšie kandidáty
 
 ```txt
@@ -145,6 +187,8 @@ Oči pri sebe, špicatý čumáčik hneď vedľa nich – stále vnútri tvári�
 /\/\/\(^.^)>
 <(^.^)/\/\
 /\/\(◕.◕)>
+/\/\(•ᴥ•)
+~/\/\(•ω•)
 ```
 
 ## Poznámka
@@ -153,9 +197,11 @@ Oči pri sebe, špicatý čumáčik hneď vedľa nich – stále vnútri tvári�
 - `(•.•)` = oči / výraz
 - `>` alebo `<` = špicatý ňufák
 - `~` `,` `.` `q` = chvostík (vždy na opačnej strane než ňufák)
-- `ω` `v` `·` = čumáčik medzi očami (tvárička bez vonkajšieho ňufáka)
-- `ᴥ` ako čumáčik nepoužívame – je to poznávací znak bearblogu `ʕ•ᴥ•ʔ`,
-  nech to nevyzerá ako kópia
+- `ω` `v` `·` `ᴥ` = čumáčik medzi očami (tvárička bez vonkajšieho ňufáka)
+- `ᴥ` je inšpirácia bearblogom `ʕ•ᴥ•ʔ` – ich medveď má uši, náš ježko
+  pichliače, takže silueta je iná a nepôsobí to ako kópia
+- ne-ASCII znaky (`•` `ω` `ᴥ` `◕` `ᵔ` `∧` `Λ`) sú v pohode, kľudne aj ďalšie
+  symboly z klávesnice
 - variant `(o.o)` nepoužívame ako hlavný – rovnaké oči má v logu firma kamarátky,
   nech to nevyzerá ako inšpirácia; vo variantoch môže ostať, ale nikdy nie ako
   prvá voľba
