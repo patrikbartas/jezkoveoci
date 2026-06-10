@@ -210,3 +210,25 @@ a:hover {
   margin-top: 1.25rem;
   padding-top: 0.2rem;
 }
+
+.footer {
+  padding: 0 1rem clamp(1.4rem, 3vw, 2.2rem);
+  text-align: center;
+  color: var(--muted);
+}
+
+.ascii-logo {
+  font-family: "SF Mono", "Menlo", "Consolas", monospace;
+  white-space: pre;
+}
+
+.footer .ascii-logo {
+  margin: 0;
+  font-size: clamp(1rem, 2.2vw, 1.25rem);
+}
+
+.footer-note {
+  margin: 0.4rem 0 0;
+  font-size: clamp(0.8rem, 1.6vw, 0.95rem);
+  letter-spacing: 0.04em;
+}

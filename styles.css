@@ -108,8 +108,12 @@ body {
 
 .caption a {
   color: var(--link);
-  text-decoration-thickness: 0.08em;
-  text-underline-offset: 0.14em;
+  text-decoration: none;
+}
+
+.ascii-logo {
+  font-family: "SF Mono", "Menlo", "Consolas", monospace;
+  white-space: pre;
 }
 
 .caption a:hover {
